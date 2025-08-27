@@ -1,0 +1,19 @@
+footer {
+  padding: 20px;
+  background-color: #E85B9E;
+}
+
+
+footer > nav  li {
+  display: inline-block;
+}
+
+
+footer > nav  a {
+  color: #ffffff;
+  padding: 5px 20px;
+}
+
+footer > nav  a:hover {
+  color: #F7CDE2;
+}
