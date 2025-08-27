@@ -1,0 +1,39 @@
+header {
+  border-top: 5px solid #E25B9E;  
+}
+
+header > h1 {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+header > h1 > a {
+  color: #F46F9F;
+  font-size: 30px;
+}
+
+
+header > nav {
+  background-color: #EC8FAC;
+  padding: 0 5px;
+}
+
+
+header > nav  li {
+  display: inline-block;
+}
+
+header > nav  a {
+  color: #ffffff;
+  display: inline-block;
+  padding: 5px 20px;
+}
+
+header > nav  a:hover {
+  background-color: #E85B9E;
+}
+
+header > nav  a.active {
+  background-color: #E85B9E;
+}
